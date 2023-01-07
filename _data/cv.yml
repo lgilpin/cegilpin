@@ -11,17 +11,16 @@
 - title: Education
   type: time_table
   contents:
-    - title: M.S.
+    - title: M.A.
       institution: Sacramento State University
-      year: 2017
+      year: 2019
       description:
-        - Creative Writing
-        - Description 2.
-    - title: B.S.
+        - English
+    - title: B.A.
       institution: University of the Pacific
       year: 2014
       description:
-        - Writing Concentration
+        - English
 - title: Experience
   type: time_table
   contents:
@@ -46,14 +45,14 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2016
+    - year: 2018
       items: 
-        - Writing Award
+        - Second place "Bazzanella" award for best short fiction.
 
 - title: Writing Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Topic 1
       items: 
         - Description 1.
         - Description 2.
@@ -65,4 +64,7 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Gaming
+    - Japanese popular culture
+    - Gaming-both current and retro
+    - Health-wellness
+
